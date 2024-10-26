@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "maps/dm_richs_apt2/cabinetdoortop"
+	"$surfaceprop" "wood"
+	"$bumpmap" "maps/dm_richs_apt2/cabinetdoortop_normal"
+}

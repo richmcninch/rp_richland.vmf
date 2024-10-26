@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "maps/dm_richs_apt2/ceiling"
+	"$surfaceprop" "ceiling_tile"
+	"$bumpmap" "maps/dm_richs_apt2/ceiling_normal"
+}

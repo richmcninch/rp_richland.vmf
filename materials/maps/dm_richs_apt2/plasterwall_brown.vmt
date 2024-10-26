@@ -1,0 +1,9 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "maps/dm_richs_apt2/plasterwall_brown"
+	"$surfaceprop" "plaster"
+	"$bumpmap" "maps/dm_richs_apt2/plasterwall_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapcontrast" 1
+}
